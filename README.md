@@ -6,9 +6,9 @@
 
 ### My completed project is here:
 
-[ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_finding_donors_project/blob/master/finding_donors.ipynb)
+[ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_survival_exploration.ipynb)
 
-[html version](https://github.com/jamesdellinger/machine_learning_nanodegree_finding_donors_project/blob/master/report.html)
+[html version](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/report.html)
 
 ## Project Overview
 Welcome to the Machine Learning Engineer Nanodegree!
