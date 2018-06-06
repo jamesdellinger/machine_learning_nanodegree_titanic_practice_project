@@ -8,6 +8,8 @@
 
 [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_survival_exploration.ipynb)
 
+[pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_survival_exploration.pdf)
+
 [html version](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/report.html)
 
 ## Project Overview
