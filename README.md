@@ -1,70 +1,26 @@
-# Titanic Survival Exploration
-## Machine Learning Engineer Nanodegree
-## Topic: Introduction and Foundations
-
+# Project: Titanic Survival Exploration
 *Predict survival outcomes from the 1912 Titanic disaster based on each passenger's features.*
+### For Udacity's Machine Learning Engineer Nanodegree
+<img src="https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/mlndlogo.png" height="140">
 
-### My completed project is here:
+### Topic: Introduction and Foundations
 
-[ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_survival_exploration.ipynb)
+### Overview:
 
-[pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_survival_exploration.pdf)
-
-[html version](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/report.html)
-
-## Project Overview
-This is the first, ***optional***, project in the Machine Learning Engineer Nanodegree.
+* This is the first, ***optional***, project in the Machine Learning Engineer Nanodegree.
 
 In this project you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger's features, such as sex and age. You will start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.
 
-In addition, you'll make sure Python is installed with the necessary packages to complete this project. There are two Python libraries, `numpy` and `pandas`, that we'll use a bit here in this project. Don't worry about how these libraries work for now -- we'll get to them in more detail in later projects. This project will also familiarize you with the submission process for the projects that you will be completing as part of the Nanodegree program.
+### Concepts:
 
-### Installation
+*
 
-This project requires **Python** and the following Python libraries installed:
+### My completed project:
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+* [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_survival_exploration.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/report.html) / [pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_survival_exploration.pdf)
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
+### Dependencies:
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included
+* [requirements.txt](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/requirements.txt)
 
-### Code
-
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. Additional supporting code can be found in `visuals.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
-
-### Run
-
-In a terminal or command window, navigate to the top-level project directory `titanic_survival_exploration/` (that contains this README) and run one of the following commands:
-
-```bash
-jupyter notebook titanic_survival_exploration.ipynb
-```
-or
-```bash
-ipython notebook titanic_survival_exploration.ipynb
-```
-
-This will open the Jupyter Notebook software and project file in your web browser.
-
-### Data
-
-The dataset used in this project is included as `titanic_data.csv`. This dataset is provided by Udacity and contains the following attributes:
-
-**Features**
-- `pclass` : Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
-- `name` : Name
-- `sex` : Sex
-- `age` : Age
-- `sibsp` : Number of Siblings/Spouses Aboard
-- `parch` : Number of Parents/Children Aboard
-- `ticket` : Ticket Number
-- `fare` : Passenger Fare
-- `cabin` : Cabin
-- `embarked` : Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
-
-**Target Variable**
-- `survival` : Survival (0 = No; 1 = Yes)
+* [Anaconda .yml file](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project/blob/master/titanic_practice_project.yml)
