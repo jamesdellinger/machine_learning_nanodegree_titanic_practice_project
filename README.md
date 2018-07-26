@@ -5,7 +5,7 @@
 
 For Udacity's [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) Nanodegree.
 
-Topic: Introduction and Foundations.
+Topic: Machine Learning Foundations.
 
 ## Overview
 * In this project I created decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger's features, such as gender, age, and ticket class.
